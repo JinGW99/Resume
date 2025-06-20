@@ -25,11 +25,11 @@
 
 | 분야      | 많이 해봤어요                          | 해본 적 있어요                    |
 |-----------|-------------------------------------|-------------------------------|
-| **Backend** | Java, Spring, Spring Boot, JWT, Python, Spring Security |                                 |
-| **DB**     | MariaDB, Oracle, MongoDB, Redis       |                                 |
-| **Frontend** | HTML5, JSP, JavaScript, CSS, jQuery   |                                 |
+| **Backend** | Java, Spring, Spring Boot  |  JWT, Python, Spring Security                               |
+| **DB**     | MariaDB, Oracle       |         MongoDB, Redis                        |
+| **Frontend** | HTML5, JSP, JavaScript    |            CSS, jQuery                    |
 | **SCM**    | Bitbucket, Git, GitHub                 |                                 |
-| **기타/운영** | Jenkins, Jira, Docker, Linux, Postman   |                                 |
+| **기타/운영** | Jenkins, Jira    |              Docker, Linux, Postman                   |
 
 ---
 
